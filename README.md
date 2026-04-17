@@ -49,17 +49,17 @@ If you haven't already, download and install these first:
 ```cmd
 C:\Users\YourName>
 
-####Step 2: Clone the Repository
+#Step 2: Clone the Repository
 > **Important:** Replace `YOUR_USERNAME` with your actual GitHub username
 **Type this command exactly:**
 git clone https://github.com/YOUR_USERNAME/Linear-Regression-on-Agricultural-Data-Maize-Yield-Prediction.git
 
-####Step 3: Enter into Folder
+#Step 3: Enter into Folder
 cd Linear-Regression-on-Agricultural-Data-Maize-Yield-Prediction
 
 you will then obtain the actual code for this project
 
-#### Step 4:Launch Jupyter Notebook
+#Step 4:Launch Jupyter Notebook
 jupyter notebook
 
 

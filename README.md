@@ -11,20 +11,6 @@ The dataset (`crop_yield.csv`) contains crop production records across Indian st
 - **Features used:** Annual Rainfall(mm), Fertilizer(kg), Pesticide (kg), Area cultivated (ha)
 - **Target variable:** Yield (production per unit area) (metric tons per ha)
 
-## What was Built?
-| Component | Implementation |
-| Linear Regression | Custom class with gradient descent |
-| Cost Function | Mean Squared Error (MSE) |
-| Optimization | Gradient descent with configurable learning rate |
-| Evaluation | MAE, MSE, RMSE, R² Score |
-| Visualization | Matplotlib for scatter plots and learning curves |
-
-## Key Results
-| Metric | Value |
-| R² Score | **-2.08** |
-| Mean Absolute Error (MAE) | ~2.00 |
-| Root Mean Squared Error (RMSE) | ~2.83 |
-
 ### What Does Negative R² Mean for this simple case?
 > An R² score below 0 means the model performs worse than simply predicting the **mean yield value** for every sample.
 This is a valuable diagnostic result — it proves that:

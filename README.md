@@ -59,5 +59,3 @@ cd Linear-Regression-on-Agricultural-Data-Maize-Yield-Prediction
 #Step 4:Launch Jupyter Notebook
 jupyter notebook
 ```cmd
-If you found this project useful, please consider giving it a ⭐
-

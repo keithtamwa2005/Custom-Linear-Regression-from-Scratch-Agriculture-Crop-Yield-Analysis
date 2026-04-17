@@ -1,0 +1,2 @@
+# Custom-Linear-Regression-from-Scratch-Agriculture-Crop-Yield-Analysis
+This project builds a custom Linear Regression model from scratch using NumPy, pandas, and matplotlib to predict maize yield from rainfall, fertilizer, pesticide use, and cultivated area. Using 975 samples, it applies gradient descent to minimize MSE and tracks cost over epochs to visualize learning progress. (No sklearn was used on purpose).

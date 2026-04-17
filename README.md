@@ -56,11 +56,8 @@ git clone https://github.com/YOUR_USERNAME/Linear-Regression-on-Agricultural-Dat
 
 #Step 3: Enter into Folder
 cd Linear-Regression-on-Agricultural-Data-Maize-Yield-Prediction
-
-you will then obtain the actual code for this project
-
 #Step 4:Launch Jupyter Notebook
 jupyter notebook
-
+```cmd
 If you found this project useful, please consider giving it a ⭐
 
